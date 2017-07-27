@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: EasyVideoDownlod
 description: Videos Downloader for Youtube, Vimeo, DailyMotion and more
+show_downloads: false
