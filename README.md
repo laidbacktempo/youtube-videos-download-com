@@ -1,7 +1,7 @@
 # What does it do?
-All in one script to get youtube, Vimeo, Facebook, Dailymotion videos and more with one click.
+All-in-one script to get Youtube, Vimeo, Facebook, DailyMotion Videos and more with one click.
 
-![Download youtube, Vimeo, Facebook, Dailymotion videos and more.](http://i67.tinypic.com/28s8ra9.png "Download youtube, Vimeo, Facebook, Dailymotion videos and more")
+![Download youtube, Vimeo, Facebook, Dailymotion videos and more.](http://i67.tinypic.com/28s8ra9.png "Download youtube, Vimeo, Facebook, DailyMotion Videos and more")
 
 # How to install?
 ## ![alt text](https://developer.chrome.com/static/images/chrome-logo.png "How to install on Chrome") Chrome
